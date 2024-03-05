@@ -1,0 +1,10 @@
+Include/
+Lib/
+Scripts/
+share/
+*.cfg
+
+*.env
+
+*pycache*
+*.pyc
